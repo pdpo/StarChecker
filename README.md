@@ -15,7 +15,7 @@ Username checker for more than 20 platforms.
 - YouTube
 - Twitch
 - Kick
-- 
+- Discord
 
 ### Gaming
 - Steam
@@ -27,7 +27,7 @@ Username checker for more than 20 platforms.
 - Battle.net
 - Riot Games
 
-### Entertainment
+### Other
 - Domain
 - SoundCloud
 - Gmail
